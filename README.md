@@ -33,4 +33,4 @@ A custom-made **Solitaire card game** built using **C++ and SFML** (Simple and F
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sfml_solitire_oop_project.git
+   git clone https://github.com/tayyabarfaq/Solitaire.git
